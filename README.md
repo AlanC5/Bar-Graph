@@ -14,6 +14,6 @@ Properties -> C/C++ Build -> Settings -> GCC C++ Compiler -> Includes
 Reference for Graph.h: http://www.stroustrup.com/Programming/PPP2code/Graph.h
 
 # Example
-[Bar (input)](https://github.com/AlanC5/Bar-Graph/blob/master/Bar%20(1).png)
+[Bar (input)](https://github.com/AlanC5/Bar-Graph/blob/master/Bar(1).png)
 
-[Bar (ouput)](https://github.com/AlanC5/Bar-Graph/blob/master/Bar%20(2).png)
+[Bar (ouput)](https://github.com/AlanC5/Bar-Graph/blob/master/Bar(2).png)
